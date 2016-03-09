@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=[01] COVER PAGE.SchDoc
+Record=SheetSymbol|SourceDocument=[01] COVER PAGE.SchDoc|Designator=TOP LEVEL|SchDesignator=TOP LEVEL|FileName=[02]BLOCK DIAGRAM.SchDoc|SymbolType=Normal|RawFileName=[02]BLOCK DIAGRAM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=[01] COVER PAGE.SchDoc|Designator=TOP LEVEL|SchDesignator=TOP LEVEL|FileName=[03] TOP LEVEL.SchDoc|SymbolType=Normal|RawFileName=[03] TOP LEVEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
