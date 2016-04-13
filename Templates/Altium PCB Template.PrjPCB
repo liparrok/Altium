@@ -90,24 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MHVLBWYN
 
 [Document4]
-DocumentPath=E:\SWF\Altium Designer\Templates\OB-R-02-14 Altium PCB A3_Rev.7.PCBDOC
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FRUVSUWB
-
-[Document5]
-DocumentPath=Altium OutJob SWF.OutJob
+DocumentPath=Altium OutJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,176 +106,193 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=Template_Pcb_A3_Landscape_v1.PCBDOC
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESPBASIN
+
 [ProjectVariant1]
 Description=VariantName
 AllowFabrication=0
-ParameterCount=3
+ParameterCount=1
 VariationCount=0
 ParamVariationCount=0
 
 [Parameter2_1]
-Name=SCHCode
-Value=xxx-xxx-B0
-
-[Parameter2_2]
-Name=SCHDate
-Value=13.4.2014
-
-[Parameter2_3]
 Name=SCHVariant
 Value=w/ CPU
 
 [Parameter1]
-Name=CoverPage_01
-Value=COVER PAGE
-
-[Parameter2]
-Name=CoverPage_02
-Value=BLOCK DIAGRAM
-
-[Parameter3]
-Name=CoverPage_03
-Value=TOP LEVEL
-
-[Parameter4]
-Name=CoverPage_04
-Value=............................................
-
-[Parameter5]
-Name=CoverPage_05
-Value=............................................
-
-[Parameter6]
-Name=CoverPage_06
-Value=............................................
-
-[Parameter7]
-Name=CoverPage_07
-Value=............................................
-
-[Parameter8]
-Name=CoverPage_08
-Value=............................................
-
-[Parameter9]
-Name=CoverPage_09
-Value=............................................
-
-[Parameter10]
-Name=CoverPage_10
-Value=............................................
-
-[Parameter11]
-Name=CoverPage_11
-Value=............................................
-
-[Parameter12]
-Name=CoverPage_12
-Value=............................................
-
-[Parameter13]
-Name=CoverPage_13
-Value=............................................
-
-[Parameter14]
-Name=CoverPage_14
-Value=............................................
-
-[Parameter15]
-Name=CoverPage_15
-Value=............................................
-
-[Parameter16]
-Name=CoverPage_16
-Value=............................................
-
-[Parameter17]
-Name=CoverPage_17
-Value=............................................
-
-[Parameter18]
-Name=CoverPage_18
-Value=............................................
-
-[Parameter19]
-Name=CoverPage_19
-Value=............................................
-
-[Parameter20]
-Name=CoverPage_20
-Value=............................................
-
-[Parameter21]
-Name=PCBCode
-Value=xxx-xxx-A0
-
-[Parameter22]
-Name=PrjAutor
-Value=R. LIPAR
-
-[Parameter23]
-Name=PrjCheckBy
-Value=R. LIPAR
-
-[Parameter24]
-Name=Project
-Value=RASPBERRY UPS 3A
-
-[Parameter25]
-Name=ProjectStatus
-Value=DRAFT
-
-[Parameter26]
-Name=Revision
+Name=SCHRevision
 Value=B0
 
-[Parameter27]
-Name=SCH0DATE
-Value=5.1.2015
-
-[Parameter28]
-Name=SCH0NAME
-Value=RASPBERRY UPS SMART
-
-[Parameter29]
-Name=SCH0VERSION
-Value=A0
-
-[Parameter30]
-Name=SCH1DATE
+[Parameter2]
+Name=SCHDate
 Value=10.4.2015
 
-[Parameter31]
-Name=SCH1NAME
-Value=RASPBERRY UPS 3A
+[Parameter3]
+Name=SCHCode
+Value=xxx-xxx-B0
 
-[Parameter32]
+[Parameter4]
+Name=SCH3VERSION
+Value=BB
+
+[Parameter5]
+Name=SCH3NAME
+Value=BB
+
+[Parameter6]
+Name=SCH3DATE
+Value=BB
+
+[Parameter7]
+Name=SCH2VERSION
+Value=AA
+
+[Parameter8]
+Name=SCH2NAME
+Value=AA
+
+[Parameter9]
+Name=SCH2DATE
+Value=AA
+
+[Parameter10]
 Name=SCH1VERSION
 Value=B0
 
+[Parameter11]
+Name=SCH1NAME
+Value=RASPBERRY UPS 3A
+
+[Parameter12]
+Name=SCH1DATE
+Value=10.4.2015
+
+[Parameter13]
+Name=SCH0VERSION
+Value=A0
+
+[Parameter14]
+Name=SCH0NAME
+Value=RASPBERRY UPS SMART
+
+[Parameter15]
+Name=SCH0DATE
+Value=5.1.2015
+
+[Parameter16]
+Name=ProjectStatus
+Value=DRAFT
+
+[Parameter17]
+Name=Project
+Value=RASPBERRY UPS 3A
+
+[Parameter18]
+Name=PrjCheckBy
+Value=R. LIPAR
+
+[Parameter19]
+Name=PrjAutor
+Value=R. LIPAR
+
+[Parameter20]
+Name=PCBRevision
+Value=001
+
+[Parameter21]
+Name=CoverPage_20
+Value=............................................
+
+[Parameter22]
+Name=CoverPage_19
+Value=............................................
+
+[Parameter23]
+Name=CoverPage_18
+Value=............................................
+
+[Parameter24]
+Name=CoverPage_17
+Value=............................................
+
+[Parameter25]
+Name=CoverPage_16
+Value=............................................
+
+[Parameter26]
+Name=CoverPage_15
+Value=............................................
+
+[Parameter27]
+Name=CoverPage_14
+Value=............................................
+
+[Parameter28]
+Name=CoverPage_13
+Value=............................................
+
+[Parameter29]
+Name=CoverPage_12
+Value=............................................
+
+[Parameter30]
+Name=CoverPage_11
+Value=............................................
+
+[Parameter31]
+Name=CoverPage_10
+Value=............................................
+
+[Parameter32]
+Name=CoverPage_09
+Value=............................................
+
 [Parameter33]
-Name=SCH2DATE
-Value=
+Name=CoverPage_08
+Value=............................................
 
 [Parameter34]
-Name=SCH2NAME
-Value=
+Name=CoverPage_07
+Value=............................................
 
 [Parameter35]
-Name=SCH2VERSION
-Value=
+Name=CoverPage_06
+Value=............................................
 
 [Parameter36]
-Name=SCH3DATE
-Value=
+Name=CoverPage_05
+Value=............................................
 
 [Parameter37]
-Name=SCH3NAME
-Value=
+Name=CoverPage_04
+Value=............................................
 
 [Parameter38]
-Name=SCH3VERSION
-Value=
+Name=CoverPage_03
+Value=TOP LEVEL
+
+[Parameter39]
+Name=CoverPage_02
+Value=BLOCK DIAGRAM
+
+[Parameter40]
+Name=CoverPage_01
+Value=COVER PAGE
 
 [Configuration1]
 Name=Default Configuration
